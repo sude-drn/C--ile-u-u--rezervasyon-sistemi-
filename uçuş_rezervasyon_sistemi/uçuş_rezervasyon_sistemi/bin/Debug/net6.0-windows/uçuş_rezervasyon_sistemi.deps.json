@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "uçuş_rezervasyon_sistemi/1.0.0": {
+        "runtime": {
+          "uçuş_rezervasyon_sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uçuş_rezervasyon_sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
